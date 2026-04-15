@@ -1,1 +1,2 @@
-# Um README é um arquivo de texto, comumente em formato Markdown (.md), que funciona como o manual de instruções ou "cartão de visita" de um projeto de software. Geralmente localizado na raiz de um repositório (como no GitHub), ele explica o que o projeto faz, como instalá-lo, usá-lo e contribuir para ele  
+# Exemplo de read me fewincivnewinv 
+
