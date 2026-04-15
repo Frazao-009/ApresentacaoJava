@@ -1,3 +1,3 @@
-# Exemplo de read me
+# Exemplo de README
 Texto Maneiro
 
