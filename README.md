@@ -2,5 +2,4 @@
 Um pequeno resumo sobre o projeto aqui
 
 ## DESCRIÇÃO DO PROJETO
-Repositório feito para trabalho escolar
-
+Repositório feito para trabalho escola
